@@ -5,7 +5,11 @@ title: Released Section
 
 # **AVICII'S OFFICIAL DISCOGRAPHY**
 
+<div class="indent">
+  
 This page contains officially released music by [Avicii](https://songwhip.com/avicii) (incl. [Tim Berg](https://songwhip.com/tim-berg), [Tom Hangs](https://songwhip.com/tom-hangs), and [Jovicii](https://songwhip.com/jovicii)).
+  
+</div>
 
 _Italic lettering_ = Posthumous release  
 ~~Strikethrough lettering~~ = No valid links
