@@ -3,8 +3,6 @@ layout: default
 title: Released Section
 ---
 
-<div id="all">
-
 # **AVICII'S OFFICIAL DISCOGRAPHY**
 
 <div class="indent">
@@ -287,9 +285,6 @@ Songs that were once standalone releases but were later assimilated into their r
 &nbsp; &nbsp; &nbsp; 2013-08-30 &nbsp; | &nbsp; [~~True Reveal~~](https://open.spotify.com/album/7fKhd6CBs8j8mNWSKRUANe)  
 &nbsp; &nbsp; &nbsp; 2013-12-31 &nbsp; | &nbsp; [~~New Year's Eve Mix~~](https://itunes.apple.com/us/album/new-years-eve-mix-single/id748289776)
 
-
 table | thing
 -|-
 yes | hello
-  
-</div>
