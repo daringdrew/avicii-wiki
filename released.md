@@ -3,6 +3,8 @@ layout: default
 title: Released Section
 ---
 
+<div id="all">
+
 # **AVICII'S OFFICIAL DISCOGRAPHY**
 
 <div class="indent">
@@ -289,3 +291,5 @@ Songs that were once standalone releases but were later assimilated into their r
 table | thing
 -|-
 yes | hello
+  
+</div>
