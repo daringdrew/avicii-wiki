@@ -1,9 +1,16 @@
-#all {
+html {
   background-color: #282c34;
   color: white;
 }
 
+html > a {
+  color: lightblue;
+}
+
+html > a:visited {
+  color: lightblue;
+}
+
 .indent {
   margin-left: 20px;
-  background-color: #282c34;
 }
